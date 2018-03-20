@@ -1,0 +1,35 @@
+Matrix-Matrix multiplication tests 
+size 10: 
+Eigen: 1.9184e-05
+Vector: 4.404e-06
+size 50: 
+Eigen: 0.000151697
+Vector: 0.000297774
+size 100: 
+Eigen: 0.000563292
+Vector: 0.000789782
+size 250: 
+Eigen: 0.00582674
+Vector: 0.0156538
+size 500: 
+Eigen: 0.0438879
+Vector: 0.125196
+size 1000: 
+Eigen: 0.335316
+Vector: 1.59422
+
+
+Vector-Vector multiplication tests
+size 100: 
+Eigen: 7.8e-08
+Vector: 2e-08
+size 1000: 
+Eigen: 2.5e-08
+Vector: 1.9e-08
+size 100000: 
+Eigen: 3e-08
+Vector: 1.6e-08
+size 1000000: 
+Eigen 3.3e-08
+Vector 2.3e-08
+

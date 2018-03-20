@@ -1,0 +1,37 @@
+Here is the output from my main function:
+
+Matrix-Matrix multiplication tests 
+size 10: 
+Eigen: 3.2389e-05
+Vector: 3.2395e-05
+size 50: 
+Eigen: 0.00126744
+Vector: 0.0010732
+size 100: 
+Eigen: 0.00461166
+Vector: 0.00871153
+size 250: 
+Eigen: 0.0616004
+Vector: 0.132473
+size 500: 
+Eigen: 0.473396
+Vector: 1.14901
+size 1000: 
+Eigen: 3.77185
+Vector: 11.2757
+
+
+Vector-Vector multiplication tests
+size 100: 
+Eigen: 1.879e-05
+Vector: 4.7e-07
+size 1000: 
+Eigen: 1.4813e-05
+Vector: 4.127e-06
+size 100000: 
+Eigen: 0.00150934
+Vector: 0.000414836
+size 1000000: 
+Eigen 0.0147105
+Vector 0.00436375
+
